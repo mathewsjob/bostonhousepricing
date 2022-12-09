@@ -15,3 +15,17 @@ conda create -p venv python==3.7 -y
 
 git config --global user.name
 git config --global user.email
+
+
+# git add a file
+
+git add requirement.txt
+git add .
+git statuss
+
+git commit -m " this is my first commit"
+
+# NOW CODE IN STAGING AREA  
+
+git push orgin main
+
